@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/pristine-react-dapp/static/js/main.9b63b691.chunk.js",
+    "main.js.map": "/pristine-react-dapp/static/js/main.9b63b691.chunk.js.map",
+    "runtime~main.js": "/pristine-react-dapp/static/js/runtime~main.b61e7008.js",
+    "runtime~main.js.map": "/pristine-react-dapp/static/js/runtime~main.b61e7008.js.map",
+    "static/js/2.251f2653.chunk.js": "/pristine-react-dapp/static/js/2.251f2653.chunk.js",
+    "static/js/2.251f2653.chunk.js.map": "/pristine-react-dapp/static/js/2.251f2653.chunk.js.map",
+    "index.html": "/pristine-react-dapp/index.html",
+    "precache-manifest.a51539680d9a5e3ebb92d529154db749.js": "/pristine-react-dapp/precache-manifest.a51539680d9a5e3ebb92d529154db749.js",
+    "service-worker.js": "/pristine-react-dapp/service-worker.js"
+  }
+}
