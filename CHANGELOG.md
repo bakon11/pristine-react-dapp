@@ -1,3 +1,10 @@
+# 1.0.0 (2019-07-02)
+
+
+### Bug Fixes
+
+* Updated readme file for new app ([2f2c82e](https://github.com/bakon11/pristine-react-dapp/commit/2f2c82e))
+
 ## [1.0.2](https://github.com/etclabscore/pristine-typescript-react/compare/1.0.1...1.0.2) (2019-07-02)
 
 
